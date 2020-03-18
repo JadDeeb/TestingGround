@@ -1,865 +1,342 @@
 "../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 0
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/NewBlendSpace.uasset" 1
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/Boss_Idle.uasset" 2
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/SwordStanding_BS.uasset" 3
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/Boss_ReactionHits.uasset" 4
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/Boss_ReactionHit_B.uasset" 5
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/Boss_ReactionHit_F.uasset" 6
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/Boss_ReactionHit_L.uasset" 7
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/Boss_ReactionHit_R.uasset" 8
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Boss_BattleEntrance_InP.uasset" 9
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Boss_Parried_InP.uasset" 10
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Boss_Staggered_InP.uasset" 11
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Attacks/Boss_Attack_ChargedCombo_InP.uasset" 12
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Attacks/Boss_Attack_HandAndSwordSwing_InP.uasset" 13
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Attacks/Boss_Attack_Running_Simple_InP.uasset" 14
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Attacks/Boss_Attack_Running_WithAOEBlow_InP.uasset" 15
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Attacks/Boss_Attack_SwingAndSlam_InP.uasset" 16
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Attacks/Boss_Attack_Swing_InP.uasset" 17
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Attacks/Boss_Attack_Uppercut_InP.uasset" 18
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Movement/Boss_Walk_B_InP.uasset" 19
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Movement/Boss_Walk_F_InP.uasset" 20
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Movement/Boss_Walk_L_InP.uasset" 21
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Movement/Boss_Walk_R_InP.uasset" 22
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Boss_BattleEntrance_RM.uasset" 23
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Boss_Parried_RM.uasset" 24
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Boss_Staggered_RM.uasset" 25
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/Boss_Attack_ChargedComboAttack_RM.uasset" 26
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/BB_Melee04_ChargeCombo.uasset" 27
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/Boss_Attack_HandAndSwordSwing_RM.uasset" 28
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/Boss_Attack_Running_Simple_RM.uasset" 29
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/Boss_Attack_Running_WithAOEBlow_RM.uasset" 30
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Movement/Boss_Run_F_RM.uasset" 31
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Movement/Boss_Walk_B_RM.uasset" 32
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Movement/Boss_Walk_F_RM.uasset" 33
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Movement/Boss_Walk_L_RM.uasset" 34
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Movement/Boss_Walk_R_RM.uasset" 35
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/A_SW_Berserk.uasset" 36
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/A_SW_DeadPose.uasset" 37
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/SwordTrail/Textures/T_SwordTrail_N.uasset" 38
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/SwordTrail/Textures/T_SwordTrail_Noise.uasset" 39
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/SwordTrail/Materials/M_SwordTrail.uasset" 40
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/SwordTrail/P_AnimTrail.uasset" 41
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_02.uasset" 42
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_HeavyAttack.uasset" 43
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Combo.uasset" 44
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/Ultimate_Montage.uasset" 45
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_Backward.uasset" 46
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_BackwardLeft.uasset" 47
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_BackwardRight.uasset" 48
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_Forward.uasset" 49
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_ForwardLeft.uasset" 50
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_ForwardRight.uasset" 51
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_Left.uasset" 52
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Avoid/A_SW_Avoid_Right.uasset" 53
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Block/A_SW_Blocking.uasset" 54
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Block/A_SW_Blocking_Attack.uasset" 55
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Block/A_SW_Blocking_Hit.uasset" 56
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_Enemy_Left_01.uasset" 57
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_Enemy_Left_02.uasset" 58
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_Enemy_Right_01.uasset" 59
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_Enemy_Right_02.uasset" 60
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Cinematic/A_SW_PlayerStart.uasset" 61
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Combat/A_SW_Combat_In.uasset" 62
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Combat/A_SW_Combat_Out.uasset" 63
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Combat/A_SW_Idle_Combat.uasset" 64
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Damage/A_SW_Damage_Backward.uasset" 65
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Damage/A_SW_Damage_Fast.uasset" 66
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Damage/A_SW_Damage_Left.uasset" 67
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Damage/A_SW_Damage_Right.uasset" 68
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Equip/A_SW_Equip.uasset" 69
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Equip/A_SW_Unequip.uasset" 70
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Fatality_Atacker_01.uasset" 71
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Fatality_Atacker_02.uasset" 72
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Fatality_Victim_01.uasset" 73
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Fatality_Victim_02.uasset" 74
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Stealth_Atacker_01.uasset" 75
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Fatality/A_SW_Stealth_Victim_01.uasset" 76
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/A_SW_Jump_Air.uasset" 77
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/A_SW_Jump_Land.uasset" 78
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/A_SW_Jump_Land_Run.uasset" 79
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/A_SW_Jump_Start.uasset" 80
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/Unarmed/A_Unarmed_Jump_Air.uasset" 81
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/Unarmed/A_Unarmed_Jump_Land.uasset" 82
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/Unarmed/A_Unarmed_Jump_Land_Run.uasset" 83
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Jump/Unarmed/A_Unarmed_Jump_Start.uasset" 84
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Idle.uasset" 85
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Run.uasset" 86
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_Player.uasset" 87
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/SwordsmanPlayer_IdleRun_1D.uasset" 88
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_B.uasset" 89
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_BL.uasset" 90
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_BR.uasset" 91
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_F.uasset" 92
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_FL.uasset" 93
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_FR.uasset" 94
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_L.uasset" 95
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_R.uasset" 96
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Swordsman_Walk_1d.uasset" 97
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/A_SW_Unarmed_Idle.uasset" 98
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/A_SW_Unarmed_Run.uasset" 99
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/A_SW_Unarmed_Walk.uasset" 100
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/Unarmed_SW_IdleRun_1D.uasset" 101
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_BackwardLeft.uasset" 102
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_BackwardRight.uasset" 103
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_ForwardLeft.uasset" 104
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_ForwardRight.uasset" 105
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Taunt/A_SW_Taunt_01.uasset" 106
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Taunt/A_SW_Taunt_02.uasset" 107
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_BwdLeft.uasset" 108
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_BwdRight.uasset" 109
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_Fwd.uasset" 110
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_Left.uasset" 111
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_Right.uasset" 112
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_1D.uasset" 113
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Conversations/Root_Motion/Convo_01_Low_Key_Loop.uasset" 114
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Conversations/Root_Motion/Convo_11_Listening_Loop.uasset" 115
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_CrouchWalk_F_IPC.uasset" 116
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Crouch_Idle_V2_IPC.uasset" 117
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Jog_F_IPC.uasset" 118
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Jog_F_to_Stand_Relaxed_RU_IPC.uasset" 119
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Run_F_IPC.uasset" 120
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Run_F_to_Stand_Relaxed_RU_IPC.uasset" 121
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Stand_Relaxed_Death_B_IPC.uasset" 122
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Stand_Relaxed_Fgt_v1_IPC.uasset" 123
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Stand_Relaxed_Fgt_v4_IPC.uasset" 124
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Stand_Relaxed_Idle_v2_IPC.uasset" 125
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/In_Place/MOB1_Walk_F_IPC.uasset" 126
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_CrouchWalk_F.uasset" 127
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Jog_F.uasset" 128
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Jog_F_to_Stand_Relaxed_RU.uasset" 129
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Run_F.uasset" 130
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Run_F_to_Stand_Relaxed_RU.uasset" 131
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Stand_Relaxed_Death_B.uasset" 132
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Stand_Relaxed_Fgt_v1.uasset" 133
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Stand_Relaxed_Fgt_v4.uasset" 134
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Stand_Relaxed_Idle_v2.uasset" 135
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Walk_F.uasset" 136
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Scared/In_Place/SCR_Walk_Scared_Fwd_Look_Left_Loop_IP.uasset" 137
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Scared/In_Place/SCR_Walk_Scared_Fwd_Look_Right_Loop_IP.uasset" 138
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Scared/Root_Motion/SCR_Walk_Scared_Fwd_Look_Left_Loop.uasset" 139
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Scared/Root_Motion/SCR_Walk_Scared_Fwd_Look_Right_Loop.uasset" 140
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_02_Cheerful_Loop_IP.uasset" 141
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_04_Texting_Loop_IP.uasset" 142
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_06_Look_Around_Loop_IP.uasset" 143
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_08_Listen_Music_Loop_IP.uasset" 144
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Walks/In_Place/Walk_13_Power_Walk_Loop_IP.uasset" 145
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_02_Cheerful_Loop.uasset" 146
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_04_Texting_Loop.uasset" 147
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_06_Look_Around_Loop.uasset" 148
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_08_Listen_Music_Loop.uasset" 149
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Walks/Root_Motion/Walk_13_Power_Walk_Loop.uasset" 150
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animSweepFloor1.uasset" 151
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animSweepFloor2.uasset" 152
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animSwimIdle.uasset" 153
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animSwimSurfacewater.uasset" 154
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animSwimUnderwater1.uasset" 155
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animSwimUnderwater2.uasset" 156
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animUseKeyboardSit1.uasset" 157
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animUseKeyboardSit2.uasset" 158
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animUseKeyboardSit3.uasset" 159
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animUseMonitorSit1.uasset" 160
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animUseMonitorSit2.uasset" 161
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animUseTabletSit1.uasset" 162
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animUseTabletSit2.uasset" 163
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animUseTabletSit3.uasset" 164
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animUseTabletStand1.uasset" 165
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animUseTabletStand2.uasset" 166
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/PhoenyxAnimPack3/Animations/animUseTabletStand3.uasset" 167
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlaced_SwordOnShoulder_Start.uasset" 168
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_01.uasset" 169
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_02.uasset" 170
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_02_Plus.uasset" 171
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_03.uasset" 172
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_03_Plus.uasset" 173
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_04.uasset" 174
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_05.uasset" 175
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_06.uasset" 176
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_07.uasset" 177
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_08.uasset" 178
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_09.uasset" 179
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_10.uasset" 180
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_11.uasset" 181
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_12.uasset" 182
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_13.uasset" 183
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_14.uasset" 184
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_InPlace_01.uasset" 185
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_InPlace_02.uasset" 186
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_InPlace_03.uasset" 187
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_InPlace_04.uasset" 188
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_InPlace_05.uasset" 189
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Attack_Kick.uasset" 190
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Death_01.uasset" 191
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Death_02.uasset" 192
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Death_03.uasset" 193
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Death_04.uasset" 194
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Death_05.uasset" 195
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_DodgeShort_Back_01.uasset" 196
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_DodgeShort_Back_02.uasset" 197
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_DodgeShort_Left_01.uasset" 198
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_DodgeShort_Right_01.uasset" 199
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_DodgeShort_Right_02.uasset" 200
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Dodge_Back_01.uasset" 201
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Dodge_Back_02.uasset" 202
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Dodge_Forward_01.uasset" 203
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Dodge_Left_01.uasset" 204
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Dodge_Right_01.uasset" 205
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Dodge_Right_02.uasset" 206
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_EquipSide.uasset" 207
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_FallingLoop.uasset" 208
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Finisher_01_Executor.uasset" 209
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Finisher_01_Victim.uasset" 210
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Finisher_02_Executor.uasset" 211
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Finisher_02_Victim.uasset" 212
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Finisher_03_Executor.uasset" 213
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Finisher_03_Victim.uasset" 214
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Guard_Idle_1.uasset" 215
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Guard_Idle_2.uasset" 216
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Guard_Idle_3.uasset" 217
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Guard_Idle_4.uasset" 218
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Guard_Idle_5.uasset" 219
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Guard_Start.uasset" 220
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Guard_Stop.uasset" 221
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HeavyHitReaction_Back_01.uasset" 222
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HeavyHitReaction_Front_01.uasset" 223
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HeavyHitReaction_Front_02.uasset" 224
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Back_01.uasset" 225
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Back_02.uasset" 226
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Back_180_01.uasset" 227
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Back_180_02.uasset" 228
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Back_180_03.uasset" 229
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Back_180_04.uasset" 230
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Front_01.uasset" 231
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Front_02.uasset" 232
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Front_03.uasset" 233
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Front_04.uasset" 234
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Front_05.uasset" 235
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Front_06.uasset" 236
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Front_07.uasset" 237
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Left_01.uasset" 238
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Left_02.uasset" 239
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Left_03.uasset" 240
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Right_01.uasset" 241
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_HitReaction_Right_02.uasset" 242
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Idle_1.uasset" 243
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Idle_2.uasset" 244
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Idle_2_Relax_Loop.uasset" 245
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Idle_2_Relax_Start.uasset" 246
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Idle_2_Relax_Stop.uasset" 247
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Idle_Blowing_Nose.uasset" 248
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_JumpDown.uasset" 249
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_JumpDownLong.uasset" 250
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Jump_Landing.uasset" 251
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_OnKnee_End.uasset" 252
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_OnKnee_Loop.uasset" 253
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_OnKnee_Start.uasset" 254
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_01.uasset" 255
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_02.uasset" 256
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Back_01.uasset" 257
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Back_02.uasset" 258
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Back_03.uasset" 259
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Back_04.uasset" 260
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Back_05.uasset" 261
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Back_06.uasset" 262
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Back_07.uasset" 263
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Back_Block.uasset" 264
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Block_01.uasset" 265
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Front.uasset" 266
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Left.uasset" 267
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Left_Down.uasset" 268
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Right.uasset" 269
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Right_Down.uasset" 270
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Parry_Up.uasset" 271
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Bwd.uasset" 272
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Bwd_Start.uasset" 273
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Bwd_Stop_LU.uasset" 274
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Bwd_Stop_RU.uasset" 275
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Fwd.uasset" 276
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Fwd_Stop_LU.uasset" 277
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Fwd_Stop_RU.uasset" 278
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Left.uasset" 279
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Left_135.uasset" 280
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Left_45.uasset" 281
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Left_Start.uasset" 282
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Left_Stop_LU.uasset" 283
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Left_Stop_RU.uasset" 284
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Right.uasset" 285
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Right_135.uasset" 286
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Right_45.uasset" 287
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Right_Start.uasset" 288
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Right_Stop_LU.uasset" 289
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Right_Stop_RU.uasset" 290
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Run_Start.uasset" 291
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulderRight2Hands_End.uasset" 292
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulderRight2Hands_Idle_01.uasset" 293
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulderRight2Hands_Idle_02.uasset" 294
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulderRight2Hands_Idle_03.uasset" 295
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulderRight2Hands_Start.uasset" 296
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulderRight_End.uasset" 297
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulderRight_Idle_01.uasset" 298
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulderRight_Idle_02.uasset" 299
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulderRight_Idle_03.uasset" 300
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulderRight_Idle_04.uasset" 301
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulderRight_Start.uasset" 302
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulder_Idle1.uasset" 303
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulder_Idle2.uasset" 304
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_SwordOnShoulder_Stop.uasset" 305
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Taunt_1.uasset" 306
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Taunt_2.uasset" 307
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Taunt_3.uasset" 308
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Taunt_4.uasset" 309
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Taunt_5.uasset" 310
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Taunt_6.uasset" 311
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Taunt_7.uasset" 312
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Turn_180_Left.uasset" 313
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Turn_180_Right.uasset" 314
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Turn_90_Left.uasset" 315
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Turn_90_Right.uasset" 316
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_UnequipBack.uasset" 317
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_UnequipSide.uasset" 318
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_135_Left.uasset" 319
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_135_Right.uasset" 320
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_45_Left.uasset" 321
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_45_Right.uasset" 322
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Bwd.uasset" 323
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Bwd_Start.uasset" 324
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Bwd_Stop_LU.uasset" 325
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Bwd_Stop_RU.uasset" 326
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Fwd.uasset" 327
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Fwd_Start.uasset" 328
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Fwd_Stop_LU.uasset" 329
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Fwd_Stop_RU.uasset" 330
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Fwd_Turn_Left.uasset" 331
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Fwd_Turn_Right.uasset" 332
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Left.uasset" 333
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Left_Start.uasset" 334
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Left_Stop_LU.uasset" 335
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Left_Stop_RU.uasset" 336
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Right.uasset" 337
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Right_Start.uasset" 338
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Right_Stop_LU.uasset" 339
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Right_Stop_RU.uasset" 340
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Turn_180_LU.uasset" 341
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Walk_Turn_180_RU.uasset" 342
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_45_D_Add.uasset" 343
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_45_L_Add.uasset" 344
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_45_R_Add.uasset" 345
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_45_U_Add.uasset" 346
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_90_D_Add.uasset" 347
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_90_LD_Add.uasset" 348
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_90_LU_Add.uasset" 349
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_90_L_Add.uasset" 350
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_90_RD_Add.uasset" 351
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_90_RU_Add.uasset" 352
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_90_R_Add.uasset" 353
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_90_U_Add.uasset" 354
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/LookAtOffset/2Handed_Look_CC_Add.uasset" 355
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_01.uasset" 356
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_02.uasset" 357
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_02_Plus.uasset" 358
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_03.uasset" 359
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_03_Plus.uasset" 360
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_04.uasset" 361
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_05.uasset" 362
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_06.uasset" 363
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_07.uasset" 364
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_08.uasset" 365
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_09.uasset" 366
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_10.uasset" 367
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_11.uasset" 368
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_12.uasset" 369
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_13.uasset" 370
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_14.uasset" 371
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_InPlace_01.uasset" 372
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_InPlace_02.uasset" 373
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_InPlace_03.uasset" 374
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_InPlace_04.uasset" 375
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_InPlace_05.uasset" 376
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Attack_Kick.uasset" 377
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Death_01.uasset" 378
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Death_02.uasset" 379
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Death_03.uasset" 380
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Death_04.uasset" 381
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Death_05.uasset" 382
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_DodgeShort_Back_01.uasset" 383
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_DodgeShort_Back_02.uasset" 384
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_DodgeShort_Left_01.uasset" 385
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_DodgeShort_Right_01.uasset" 386
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_DodgeShort_Right_02.uasset" 387
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Dodge_Back_01.uasset" 388
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Dodge_Back_02.uasset" 389
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Dodge_Forward_01.uasset" 390
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Dodge_Left_01.uasset" 391
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Dodge_Right_01.uasset" 392
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Dodge_Right_02.uasset" 393
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_EquipBack.uasset" 394
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_EquipSide_use.uasset" 395
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_EquipSide.uasset" 396
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_FallingLoop.uasset" 397
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Finisher_01_Executor.uasset" 398
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Finisher_01_Victim.uasset" 399
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Finisher_02_Executor.uasset" 400
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Finisher_02_Victim.uasset" 401
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Finisher_03_Executor.uasset" 402
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Finisher_03_Victim.uasset" 403
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Guard_Idle_1.uasset" 404
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Guard_Idle_2.uasset" 405
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Guard_Idle_3.uasset" 406
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Guard_Idle_4.uasset" 407
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Guard_Idle_5.uasset" 408
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Guard_Start.uasset" 409
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Guard_Stop.uasset" 410
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HeavyHitReaction_Back_01.uasset" 411
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HeavyHitReaction_Front_01.uasset" 412
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HeavyHitReaction_Front_02.uasset" 413
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Back_01.uasset" 414
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Back_02.uasset" 415
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Back_180_01.uasset" 416
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Back_180_02.uasset" 417
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Back_180_03.uasset" 418
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Back_180_04.uasset" 419
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Front_01.uasset" 420
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Front_02.uasset" 421
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Front_03.uasset" 422
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Front_04.uasset" 423
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Front_05.uasset" 424
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Front_06.uasset" 425
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Front_07.uasset" 426
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Left_01.uasset" 427
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Left_02.uasset" 428
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Left_03.uasset" 429
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Right_01.uasset" 430
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_HitReaction_Right_02.uasset" 431
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Idle_1.uasset" 432
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Idle_2.uasset" 433
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Idle_2_Relax_Loop.uasset" 434
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Idle_2_Relax_Start.uasset" 435
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Idle_2_Relax_Stop.uasset" 436
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Idle_Blowing_Nose.uasset" 437
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_JumpDown.uasset" 438
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_JumpDownLong.uasset" 439
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Jump_Landing.uasset" 440
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_OnKnee_End.uasset" 441
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_OnKnee_Loop.uasset" 442
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_OnKnee_Start.uasset" 443
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_01.uasset" 444
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_02.uasset" 445
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Back_01.uasset" 446
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Back_02.uasset" 447
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Back_03.uasset" 448
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Back_04.uasset" 449
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Back_05.uasset" 450
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Back_06.uasset" 451
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Back_07.uasset" 452
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Back_Block.uasset" 453
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Block_01.uasset" 454
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Front.uasset" 455
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Left.uasset" 456
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Left_Down.uasset" 457
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Right.uasset" 458
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Right_Down.uasset" 459
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Parry_Up.uasset" 460
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Bwd.uasset" 461
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Bwd_Start.uasset" 462
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Bwd_Stop_LU.uasset" 463
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Bwd_Stop_RU.uasset" 464
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Fwd.uasset" 465
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2handed_Run_Fwd_Stop_LU.uasset" 466
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2handed_Run_Fwd_Stop_RU.uasset" 467
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Left.uasset" 468
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Left_135.uasset" 469
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Left_45.uasset" 470
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Left_Start.uasset" 471
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Left_Stop_LU.uasset" 472
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Left_Stop_RU.uasset" 473
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Right.uasset" 474
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Right_135.uasset" 475
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Right_45.uasset" 476
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Right_Start.uasset" 477
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Right_Stop_LU.uasset" 478
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Right_Stop_RU.uasset" 479
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Run_Start.uasset" 480
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulderRight2Hands_End.uasset" 481
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulderRight2Hands_Idle_01.uasset" 482
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulderRight2Hands_Idle_02.uasset" 483
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulderRight2Hands_Idle_03.uasset" 484
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulderRight2Hands_Start.uasset" 485
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulderRight_End.uasset" 486
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulderRight_Idle_01.uasset" 487
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulderRight_Idle_02.uasset" 488
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulderRight_Idle_03.uasset" 489
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulderRight_Idle_04.uasset" 490
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulderRight_Start.uasset" 491
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulder_Idle1.uasset" 492
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulder_Idle2.uasset" 493
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulder_Start.uasset" 494
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_SwordOnShoulder_Stop.uasset" 495
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Taunt_1.uasset" 496
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Taunt_3.uasset" 497
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Taunt_4.uasset" 498
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Taunt_5.uasset" 499
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Taunt_6.uasset" 500
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Taunt_7.uasset" 501
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Taunt_8.uasset" 502
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Turn_180_Left.uasset" 503
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Turn_180_Right.uasset" 504
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Turn_90_Left.uasset" 505
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Turn_90_Right.uasset" 506
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_UnequipSide.uasset" 507
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_135_Left.uasset" 508
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_135_Right.uasset" 509
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_45_Left.uasset" 510
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_45_Right.uasset" 511
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Bwd.uasset" 512
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Bwd_Start.uasset" 513
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Bwd_Stop_LU.uasset" 514
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Bwd_Stop_RU.uasset" 515
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Fwd.uasset" 516
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Fwd_Start.uasset" 517
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Fwd_Stop_LU.uasset" 518
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Fwd_Stop_RU.uasset" 519
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Fwd_Turn_Left.uasset" 520
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Fwd_Turn_Right.uasset" 521
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Left.uasset" 522
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Left_Start.uasset" 523
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Left_Stop_LU.uasset" 524
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Left_Stop_RU.uasset" 525
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Right.uasset" 526
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Right_Start.uasset" 527
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Right_Stop_LU.uasset" 528
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Right_Stop_RU.uasset" 529
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Turn_180_LU.uasset" 530
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Walk_Turn_180_RU.uasset" 531
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/BlendSpaces/LookAtBlendspace.uasset" 532
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/BlendSpaces/SwordMovementBlendspace.uasset" 533
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedHammer/Hammer_Mat.uasset" 534
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedHammer/TwoHandedHammer_Mesh.uasset" 535
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedHammer/Textures/Hammer_albedo.uasset" 536
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedHammer/Textures/Hammer_ao.uasset" 537
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedHammer/Textures/Hammer_metallic.uasset" 538
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedHammer/Textures/Hammer_normal.uasset" 539
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedHammer/Textures/Hammer_roughness.uasset" 540
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedSword/Sword_Mat.uasset" 541
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedSword/TwoHandedSword_Mesh.uasset" 542
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedSword/Textures/sword_albedo.uasset" 543
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedSword/Textures/sword_ao.uasset" 544
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedSword/Textures/sword_metallic.uasset" 545
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedSword/Textures/sword_normal.uasset" 546
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Mesh/TwoHandedSword/Textures/sword_roughness.uasset" 547
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Backward.uasset" 548
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Forward.uasset" 549
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Left.uasset" 550
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Right.uasset" 551
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_RelaxWalk.uasset" 552
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Swordsman_IdleRun_1D.uasset" 553
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 554
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPersonRun.uasset" 555
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 556
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 557
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 558
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/E_ItemType.uasset" 559
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/E_SlotType.uasset" 560
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/F_ItemInfo.uasset" 561
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/BPI_Interact.uasset" 562
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/BP_BaseItem.uasset" 563
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Weapons/E_AttackType.uasset" 564
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Weapons/F_WeaponInfo.uasset" 565
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Weapons/BP_BaseWeapon.uasset" 566
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 567
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_01.uasset" 568
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/Combo1_Montage.uasset" 569
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_03.uasset" 570
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/Combo2_Montage.uasset" 571
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_04.uasset" 572
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/Combo3_Montage.uasset" 573
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_05.uasset" 574
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/Combo4_Montage.uasset" 575
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/RollBackwards_Montage.uasset" 576
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/RollForward_Montage.uasset" 577
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/RollLeft_Montage.uasset" 578
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/RollRight_Montage.uasset" 579
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_EquipBack.uasset" 580
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/DrawSword.uasset" 581
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_UnequipBack_use.uasset" 582
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/SheathSword.uasset" 583
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Armor/F_ArmorInfo.uasset" 584
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Armor/BP_BaseArmor.uasset" 585
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/BPI_Inventory.uasset" 586
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 587
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 588
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 589
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 590
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 591
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 592
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 593
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 594
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 595
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 596
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 597
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 598
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 599
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 600
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 601
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 602
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 603
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 604
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 605
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/SceneCaptures/T_CharacterCapture.uasset" 606
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/SceneCaptures/BP_CharacterCapture.uasset" 607
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/BPI_RecorderCom.uasset" 608
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/F_InteratableVariables.uasset" 609
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/SceneCaptures/M_CharacterCapture.uasset" 610
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_EquipmentSlot.uasset" 611
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_Equipment.uasset" 612
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_InventoryItem.uasset" 613
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_Inventory.uasset" 614
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Skills/E_Skills.uasset" 615
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_GameHUD.uasset" 616
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_SkillTree.uasset" 617
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Characters/Player/CH_MyCharacter.uasset" 618
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/BP_BaseInteractible.uasset" 619
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 620
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 621
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 622
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 623
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/Meshes_OBJ_sword_WP.uasset" 624
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Weapons/BP_Star.uasset" 625
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 626
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 627
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 628
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 629
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/ThirdPersonOverview.uasset" 630
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 631
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 632
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 633
-"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 634
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 635
-"../../../Engine/Content/BasicShapes/Cone.uasset" 636
-"../../../Engine/Content/BasicShapes/Cube.uasset" 637
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 638
-"../../../Engine/Content/BasicShapes/Plane.uasset" 639
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 640
-"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 641
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 642
-"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 643
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 644
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 645
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 646
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 647
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 648
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 649
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 650
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 651
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 652
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 653
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 654
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 655
-"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 656
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 657
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 658
-"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 659
-"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 660
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 661
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 662
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 663
-"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 664
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 665
-"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 666
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 667
-"../../../Engine/Content/EditorResources/EmptyActor.uasset" 668
-"../../../Engine/Content/EditorResources/S_Actor.uasset" 669
-"../../../Engine/Content/EditorResources/S_Note.uasset" 670
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 671
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 672
-"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 673
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 674
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 675
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 676
-"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 677
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 678
-"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 679
-"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 680
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 681
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 682
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 683
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 684
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 685
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 686
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 687
-"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 688
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 689
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 690
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 691
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 692
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 693
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 694
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 695
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 696
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 697
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 698
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 699
-"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 700
-"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 701
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 702
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 703
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 704
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 705
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 706
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 707
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 708
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 709
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 710
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 711
-"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 712
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 713
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 714
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 715
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 716
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 717
-"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 718
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 719
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 720
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 721
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 722
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 723
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 724
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 725
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 726
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 727
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 728
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 729
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 730
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 731
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 732
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 733
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 734
-"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 735
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 736
-"../../../Engine/Content/EngineResources/Black.uasset" 737
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 738
-"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 739
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 740
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 741
-"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 742
-"../../../Engine/Content/EngineSounds/Master.uasset" 743
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 744
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 745
-"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 746
-"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 747
-"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 748
-"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 749
-"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 750
-"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 751
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 752
-"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 753
-"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 754
-"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 755
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 756
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 757
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 758
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 759
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 760
-"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 761
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 762
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 763
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 764
-"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 765
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 766
-"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 767
-"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 768
-"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 769
-"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 770
-"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 771
-"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 772
-"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 773
-"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 774
-"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 775
-"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 776
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 777
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 778
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 779
-"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 780
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 781
-"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 782
-"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 783
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 784
-"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 785
-"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 786
-"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 787
-"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 788
-"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 789
-"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 790
-"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 791
-"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 792
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 793
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 794
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 795
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 796
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 797
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 798
-"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 799
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Movement/Boss_Run_F_InP.uasset" 800
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Boss/Boss_Blendspace1D.uasset" 801
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Boss/Boss_ABP.uasset" 802
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/Boss_Attack_Uppercut_RM.uasset" 803
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/BB_Melee02_SwingDownUp.uasset" 804
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/Boss_Attack_SwingAndSlam_RM.uasset" 805
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/BB_Melee03_smallCombo.uasset" 806
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/Boss_Attack_Swing_RM.uasset" 807
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/BB_Melee1_swingright.uasset" 808
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Crouch_Idle_V2.uasset" 809
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/BB_Range_Crouch.uasset" 810
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Taunt_8.uasset" 811
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/Entrance_BB.uasset" 812
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Taunt_2.uasset" 813
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/BB_Taunt.uasset" 814
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/RedBoss.uasset" 815
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_BossHealth.uasset" 816
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Boss/BossFight.uasset" 817
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 818
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 819
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 820
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 821
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 822
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 823
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 824
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 825
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 826
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_dust_cloud.uasset" 827
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/Armguard.uasset" 828
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Armor/BP_ArmGuards.uasset" 829
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/Meshes_OBJ_helmet_ARM.uasset" 830
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Armor/BP_Helmet.uasset" 831
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/Meshes_OBJ_shield_ARM.uasset" 832
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Armor/BP_shield.uasset" 833
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/Meshes_OBJ_breastplate_ARM.uasset" 834
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Armor/BP_TorsoArmor.uasset" 835
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/CubeMaterial.uasset" 836
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_SparkSingle.uasset" 837
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Materials/M_Single_Master.uasset" 838
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_Smoke_SubUV.uasset" 839
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_Smoke_Tiled_D.uasset" 840
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Materials/M_smoke_subUV.uasset" 841
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Materials/M_WaterCloud.uasset" 842
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_Flare_02.uasset" 843
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_Flare_04.uasset" 844
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_Smoke_Tile_01.uasset" 845
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Materials/M_Flare_Master.uasset" 846
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_Flare_03.uasset" 847
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Materials/MI_MetalImpact_Flare.uasset" 848
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/P_Imp_Metal.uasset" 849
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Weapons/BP_Katana.uasset" 850
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 851
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/M_HihglightMaterial.uasset" 852
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/1M_Cube.uasset" 853
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 854
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/TemplateFloor.uasset" 855
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPerson/Meshes/RampMaterial.uasset" 856
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 857
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 858
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 859
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 860
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 861
-"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 862
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 863
-"../../../Engine/Content/Maps/Entry.umap" 864
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/Boss_Attack_ChargedComboAttack_RM.uasset" 1
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/SwordTrail/Textures/T_SwordTrail_N.uasset" 2
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/SwordTrail/Textures/T_SwordTrail_Noise.uasset" 3
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/SwordTrail/Materials/M_SwordTrail.uasset" 4
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/SwordTrail/P_AnimTrail.uasset" 5
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Combo.uasset" 6
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_B.uasset" 7
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_BL.uasset" 8
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_BR.uasset" 9
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_F.uasset" 10
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_FL.uasset" 11
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_FR.uasset" 12
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_L.uasset" 13
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_Player.uasset" 14
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Walk_R.uasset" 15
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/A_SW_Unarmed_Idle.uasset" 16
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/A_SW_Unarmed_Run.uasset" 17
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Unarmed/A_SW_Unarmed_Walk.uasset" 18
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_BwdLeft.uasset" 19
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_BwdRight.uasset" 20
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_Fwd.uasset" 21
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_Left.uasset" 22
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Throw/A_SW_Throw_Right.uasset" 23
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Backward.uasset" 24
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Forward.uasset" 25
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Left.uasset" 26
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/A_SW_Roll_Right.uasset" 27
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Idle.uasset" 28
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_RelaxWalk.uasset" 29
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/A_SW_Run.uasset" 30
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Movement/Swordsman_IdleRun_1D.uasset" 31
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 32
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPersonRun.uasset" 33
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 34
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 35
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 36
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/E_ItemType.uasset" 37
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/E_SlotType.uasset" 38
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/F_ItemInfo.uasset" 39
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/BPI_Interact.uasset" 40
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/BP_BaseItem.uasset" 41
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Weapons/E_AttackType.uasset" 42
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Weapons/F_WeaponInfo.uasset" 43
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Weapons/BP_BaseWeapon.uasset" 44
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 45
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_01.uasset" 46
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/Combo1_Montage.uasset" 47
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_03.uasset" 48
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/Combo2_Montage.uasset" 49
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_04.uasset" 50
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/Combo3_Montage.uasset" 51
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/A_SW_Attack_05.uasset" 52
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Attack/Combo4_Montage.uasset" 53
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/RollBackwards_Montage.uasset" 54
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/RollForward_Montage.uasset" 55
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/RollLeft_Montage.uasset" 56
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Character/UE4Mannequin/Animations/Swordsman/Roll/RollRight_Montage.uasset" 57
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_EquipBack.uasset" 58
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/DrawSword.uasset" 59
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_UnequipBack_use.uasset" 60
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/SheathSword.uasset" 61
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Armor/F_ArmorInfo.uasset" 62
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Armor/BP_BaseArmor.uasset" 63
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/BPI_Inventory.uasset" 64
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 65
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 66
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 67
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 68
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 69
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 70
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 71
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 72
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 73
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 74
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 75
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 76
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 77
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 78
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 79
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 80
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 81
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 82
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 83
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/SceneCaptures/T_CharacterCapture.uasset" 84
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/SceneCaptures/BP_CharacterCapture.uasset" 85
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/BPI_RecorderCom.uasset" 86
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/F_InteratableVariables.uasset" 87
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/SceneCaptures/M_CharacterCapture.uasset" 88
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_EquipmentSlot.uasset" 89
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_Equipment.uasset" 90
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_InventoryItem.uasset" 91
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_Inventory.uasset" 92
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Skills/E_Skills.uasset" 93
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_GameHUD.uasset" 94
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_SkillTree.uasset" 95
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Characters/Player/CH_MyCharacter.uasset" 96
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/BP_BaseInteractible.uasset" 97
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 98
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 99
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 100
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 101
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/Meshes_OBJ_sword_WP.uasset" 102
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Weapons/BP_Star.uasset" 103
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" 104
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 105
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 106
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 107
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 108
+"../../../Engine/Content/BasicShapes/Cone.uasset" 109
+"../../../Engine/Content/BasicShapes/Plane.uasset" 110
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 111
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 112
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 113
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 114
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 115
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 116
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 117
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 118
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 119
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 120
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 121
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 122
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 123
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 124
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 125
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 126
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 127
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 128
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 129
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 130
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 131
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 132
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 133
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 134
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 135
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 136
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 137
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 138
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 139
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 140
+"../../../Engine/Content/EditorResources/S_Note.uasset" 141
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 142
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 143
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 144
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 145
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 146
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 147
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 148
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 149
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 150
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 151
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 152
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 153
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 154
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 155
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 156
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 157
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 158
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 159
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 160
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 161
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 162
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 163
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 164
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 165
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 166
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 167
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 168
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 169
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 170
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 171
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 172
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 173
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 174
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 175
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 176
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 177
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 178
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 179
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 180
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 181
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 182
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 183
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 184
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 185
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 186
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 187
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 188
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 189
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 190
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 191
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 192
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 193
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 194
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 195
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 196
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 197
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 198
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 199
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 200
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 201
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 202
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 203
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 204
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 205
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 206
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 207
+"../../../Engine/Content/EngineResources/Black.uasset" 208
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 209
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 210
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 211
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 212
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 213
+"../../../Engine/Content/EngineSounds/Master.uasset" 214
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 215
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 216
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 217
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 218
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 219
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 220
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 221
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 222
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 223
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 224
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 225
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 226
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 227
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 228
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 229
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 230
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 231
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 232
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 233
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 234
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 235
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 236
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 237
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 238
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 239
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 240
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 241
+"../../../Engine/Content/Tutorial/Basics/LevelEditorOverview.uasset" 242
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 243
+"../../../Engine/Content/Tutorial/BlueprintTutorials/BlueprintEditorTutorial.uasset" 244
+"../../../Engine/Content/Tutorial/BlueprintTutorials/LevelBlueprintEditorOverview.uasset" 245
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 246
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 247
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 248
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 249
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 250
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 251
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 252
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 253
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 254
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 255
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 256
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 257
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 258
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 259
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 260
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 261
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 262
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 263
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 264
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 265
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 266
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 267
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 268
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 269
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 270
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/Boss_Idle.uasset" 271
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/InPlace/Movement/Boss_Run_F_InP.uasset" 272
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Boss/Boss_Blendspace1D.uasset" 273
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Boss/Boss_ABP.uasset" 274
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/Boss_Attack_Uppercut_RM.uasset" 275
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/BB_Melee02_SwingDownUp.uasset" 276
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/Boss_Attack_SwingAndSlam_RM.uasset" 277
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/BB_Melee03_smallCombo.uasset" 278
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/Boss_Attack_Swing_RM.uasset" 279
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/BossyEnemyAnimPack/Animations/RootMotion/Attacks/BB_Melee1_swingright.uasset" 280
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/MOB1_Crouch_Idle_V2.uasset" 281
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/MCO_Mocap_Basics/Animation/Mobility_Pro/Root_Motion/BB_Range_Crouch.uasset" 282
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/2Handed_InPlace_Taunt_8.uasset" 283
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/InPlace/Entrance_BB.uasset" 284
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/2Handed_Taunt_2.uasset" 285
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/TwoHandedSword_AnimsetPro/Animations/RootMotion/BB_Taunt.uasset" 286
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 287
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Mannequin/Character/Materials/RedBoss.uasset" 288
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/UI/UI_BossHealth.uasset" 289
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Boss/BossFight.uasset" 290
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 291
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 292
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 293
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 294
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 295
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 296
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 297
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 298
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 299
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_dust_cloud.uasset" 300
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/Armguard.uasset" 301
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Armor/BP_ArmGuards.uasset" 302
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/Meshes_OBJ_helmet_ARM.uasset" 303
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Armor/BP_Helmet.uasset" 304
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/Meshes_OBJ_shield_ARM.uasset" 305
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Armor/BP_shield.uasset" 306
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/Meshes_OBJ_breastplate_ARM.uasset" 307
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Armor/BP_TorsoArmor.uasset" 308
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/CubeMaterial.uasset" 309
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_SparkSingle.uasset" 310
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Materials/M_Single_Master.uasset" 311
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_Smoke_SubUV.uasset" 312
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_Smoke_Tiled_D.uasset" 313
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Materials/M_smoke_subUV.uasset" 314
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Materials/M_WaterCloud.uasset" 315
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_Flare_02.uasset" 316
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_Flare_04.uasset" 317
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_Smoke_Tile_01.uasset" 318
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Materials/M_Flare_Master.uasset" 319
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Textures/T_Flare_03.uasset" 320
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/Materials/MI_MetalImpact_Flare.uasset" 321
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Anims/CloseCombat/Effects/Impacts/P_Imp_Metal.uasset" 322
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/Weapons/BP_Katana.uasset" 323
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 324
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Interactibles/M_HihglightMaterial.uasset" 325
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/1M_Cube.uasset" 326
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 327
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/Geometry/Meshes/TemplateFloor.uasset" 328
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPerson/Meshes/RampMaterial.uasset" 329
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 330
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 331
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 332
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 333
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 334
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 335
+"../../../Engine/Content/BasicShapes/Cube.uasset" 336
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 337
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/SceneStat.uasset" 338
+"../../../../../../Users/Jadde/Documents/Unreal Projects/TestingGround/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_2.umap" 339
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 340
+"../../../Engine/Content/Maps/Entry.umap" 341
